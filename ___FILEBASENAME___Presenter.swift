@@ -8,7 +8,7 @@
 
 import Foundation
 
-final class ___VARIABLE_ModuleName___Presenter  {
+final class ___VARIABLE_ModuleName___Presenter {
     
     // MARK: Properties
 
@@ -17,7 +17,7 @@ final class ___VARIABLE_ModuleName___Presenter  {
     // MARK: Initializer
 
     init(view: ___VARIABLE_ModuleName___ViewProtocol?) {
-      self.view = view
+        self.view = view
     }
     
     // MARK: Private API
