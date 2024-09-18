@@ -15,11 +15,13 @@ final class ___VARIABLE_ModuleName___Presenter  {
     weak var view: ___VARIABLE_ModuleName___ViewProtocol?
 
     // MARK: Initializer
+
     init(view: ___VARIABLE_ModuleName___ViewProtocol?) {
       self.view = view
     }
     
     // MARK: Private API
+    
 }
 
 // MARK: (View -> Presenter)
