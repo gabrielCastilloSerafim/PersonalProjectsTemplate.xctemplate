@@ -22,6 +22,11 @@ final class ___VARIABLE_ModuleName___View: UIViewController {
         presenter?.viewDidLoad()
     }
 
+    override func loadView() {
+
+        self.view = UIView()
+    }
+
     // MARK: Private API
 
 }
